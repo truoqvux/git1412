@@ -8,10 +8,8 @@ namespace git14_12.Models
 {
     internal class User
     {
-<<<<<<< HEAD
+
         public int ID { get; set; }
-=======
->>>>>>> V3
         public int MSSV { get; set; }
     }
 }
