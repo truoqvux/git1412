@@ -8,5 +8,6 @@ namespace git14_12.Models
 {
     internal class User
     {
+        public int MSSV { get; set; }
     }
 }
